@@ -1,0 +1,25 @@
+EMPLOYEE RECORD
+
+Employee ID: EMP-2024-789
+Name: Michael Anderson
+Department: Engineering
+Position: Senior Software Engineer
+Email: m.anderson@company.com
+Phone: (555) 234-5678
+Extension: x1234
+
+Employment Details:
+Start Date: 03/15/2022
+Employment Type: Full-time
+Salary: $95,000 per year
+Manager: Jane Williams
+
+Contact Information:
+Emergency Contact: Lisa Anderson
+Emergency Phone: (555) 876-5432
+Home Address: 789 Oak Avenue, Apt 12, Boston, MA 02101
+
+Certifications:
+- AWS Solutions Architect
+- Certified Kubernetes Administrator
+- PMP Certification

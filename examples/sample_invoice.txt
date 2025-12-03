@@ -1,0 +1,27 @@
+INVOICE
+
+Invoice Number: INV-2023-5678
+Date: December 3, 2025
+Due Date: December 31, 2025
+
+Bill To:
+Company Name: Tech Solutions Inc.
+Contact: Sarah Johnson
+Email: sarah.j@techsolutions.com
+Phone: +1-555-987-6543
+Address: 456 Business Park, Suite 200, Chicago, IL 60601
+
+Items:
+Professional Services - $5,000.00
+Consulting Fee - $2,500.00
+Software License - $1,200.00
+
+Subtotal: $8,700.00
+Tax (8%): $696.00
+Total Amount: $9,396.00
+
+Payment Terms: Net 30
+Payment Method: Bank Transfer
+
+Notes:
+Thank you for your business!

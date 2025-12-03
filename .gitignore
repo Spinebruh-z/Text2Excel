@@ -1,0 +1,43 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+t2e/
+*.egg-info/
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Excel/CSV outputs (if you want to ignore generated files)
+*.xlsx
+*.csv
+
+# Virtual environment
+t2e/
+
+# Documentation (keep only README.md)
+*.md
+!README.md
