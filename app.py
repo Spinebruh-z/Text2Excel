@@ -157,7 +157,7 @@ def main():
             st.download_button(
                 label="📥 Download CSV",
                 data=csv,
-                file_name=f"extracted_data_{timestamp}.csv",
+                file_name=f"Output_{timestamp}.csv",
                 mime="text/csv",
                 use_container_width=True
             )
